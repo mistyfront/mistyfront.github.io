@@ -10,7 +10,7 @@
 body {
   font-family: 'atkreg';
   padding: 20px;
-  background-image: url("../images/bg_blur.jpg");
+  background: #3C591A url("../images/bg_blur.jpg");
   background-attachment: fixed;
   background-position: center;
 }
