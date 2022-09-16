@@ -2,7 +2,10 @@
 	font-family: 'atkreg';
 	src: url("assets/font/Atkinson-Hyperlegible-Regular-102.ttf");
 }
-
+@font-face {
+	font-family: 'vcrosd';
+	src: url("assets/font/VCR_OSD_MONO_1.001.ttf");
+}
 * {
   box-sizing: border-box;
 }
@@ -10,7 +13,7 @@
 body {
   font-family: 'atkreg';
   padding: 20px;
-  background-image: url("assets/images/bg_blur.jpg");
+  background-image: url("assets/images/ultrakill/bg.png");
   background-attachment: fixed;
   background-position: center;
 }
@@ -22,6 +25,7 @@ a {
 
 /* Header/Blog Title */
 .header {
+	font-family: 'vcrosd';
   padding: 30px;
   font-size: 40px;
   text-align: left;
