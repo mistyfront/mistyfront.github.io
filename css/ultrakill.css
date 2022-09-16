@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'atkreg';
-	src: url("assets/font/Atkinson-Hyperlegible-Regular-102.ttf");
+	src: url("../fonts/Atkinson-Hyperlegible-Regular-102.ttf");
 }
 @font-face {
 	font-family: 'vcrosd';
-	src: url("assets/font/VCR_OSD_MONO_1.001.ttf");
+	src: url("../fonts/VCR_OSD_MONO_1.001.ttf");
 }
 * {
   box-sizing: border-box;
@@ -13,7 +13,7 @@
 body {
   font-family: 'atkreg';
   padding: 20px;
-  background-image: url("assets/images/ultrakill/bg.png");
+  background-image: url("../images/ultrakill/bg.png");
   background-attachment: fixed;
   background-position: center;
 }

@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'atkreg';
-	src: url("assets/font/Atkinson-Hyperlegible-Regular-102.ttf");
+	src: url("../fonts/Atkinson-Hyperlegible-Regular-102.ttf");
 }
 @font-face {
 	font-family: 'optpcs';
-	src: url("assets/font/OptimusPrincepsSemiBold.ttf");
+	src: url("../fonts/OptimusPrincepsSemiBold.ttf");
 }
 * {
   box-sizing: border-box;
@@ -13,7 +13,7 @@
 body {
   font-family: 'atkreg';
   padding: 20px;
-  background-image: url("assets/images/depths/bg.png");
+  background-image: url("../images/depths/bg.png");
   background-attachment: fixed;
   background-position: center;
 }
