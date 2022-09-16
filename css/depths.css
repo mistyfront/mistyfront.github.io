@@ -13,7 +13,7 @@
 body {
   font-family: 'atkreg';
   padding: 20px;
-  background: #010005 url("../images/depths/bg.png");
+  background: #000 url("../images/depths/bg.png");
   background-attachment: fixed;
   background-position: center;
 }
