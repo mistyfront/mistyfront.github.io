@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'dejavusans';
+	src: url("dejavusans.ttf");
+}
+body {
+	background-color: #f5f5f5;
+	font-family: 'dejavusans';
+	font-size: 30px;
+	color:#191919;
+}
+ul {
+	margin-left:-40px;
+}
+a {
+	font-family: 'dejavusans';
+	color:#191919;
+}
