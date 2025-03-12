@@ -1,0 +1,72 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/seikret.css">
+  <title>楔</title>
+  <link rel="icon" type="image/x-icon" href="images/seikret/favicon.ico">
+  <meta content="misty's corner" property="og:title" />
+    <meta content="Seikret is Hover Bike" property="og:description" />
+    <meta content="https://mistyfront.github.io/seikret" property="og:url" />
+    <meta content="https://mistyfront.github.io/images/seikret/192x192.png" property="og:image" />
+    <meta content="#ADEBB3" data-react-helmet="true" name="theme-color" />
+</head>
+<!--
+<div class="header">
+  <h2>[WITTY TITLE]</h2>
+</div>
+-->
+<!--mfw im gonna have to manually update this-->
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h1 style="font-family: 'sourceserif'; font-size: 40px;">Keep It Like a Seikret</h1>
+      <h5>2025-03-ZZ｜I feel like a kid in a car.</h5>
+      <div class="fakeimg" style="height:200px; background-image: url('images/seikret/main.png'); background-position: center;">
+	  </div>
+	  <!-- BEGIN ARTICLE -->
+	  <h2>After waiting a solid 30 minutes for my shader cache to rebuild,</h2>
+      <p>It was time to finally create my hunter and Palico, and I decided I would bring over my good buddy Kiji from the beta test in lieu of creating a new partner. His name means 'dough' in Japanese (a play on my World Palico, Mugi, meaning 'wheat'). For the Seikret, though, I was given time to stew on a name--you aren't able to customize your bird until you've taken a few big steps into the campaign. After quite a bit of contemplation, I decided on the name Kusabi, primarily meaning 'wedge,' a reference to the name of the main character's sword in Sekiro. With bright eyes, I was ready to play the game I had spent over a year looking forward to.</p>
+	  
+	  <p>Since I had spent over a thousand hours in Master Rank of World, my expectations were <i>very</i> tempered going into Low Rank in Wilds. Even so, I found myself disappointed by how quickly quests flew by. Whether it was from the egregious number of hours I've spent mastering my weapon of choice (Longsword, deal with it) or from the woefully small health pool of the monsters, I was able to finish every quest in under ten minutes. Many of them took less than five. This felt... really, really strange. The actual gameplay, the Monsters I was there to Hunt, took a backseat to the nauseatingly slow auto-walk sequences and endless lines of dialogue between every single mission. To quote myself, "rn it feels like the game has me in one of those toddler harnesses dragging me around to different punching bags to make sashimi out of"</p>
+	  
+	  <p>For what it's worth, I actually quite liked the story. I especially loved Nata's character arc and his development throughout the chapters of LR. The Wudwuds and everything about them made me grin like an idiot. Arkveld's story brought me to tears. Rove is one of the best characters ever made. All of that is shoved down your throat in chunks between five minute hunts. There is frustratingly little harmony between cutscenes and gameplay, to the point that it feels like Capcom thought the gameplay was interrupting the cutscenes, not the other way around.</p>
+	  
+	  <p>About halfway through Low Rank I decided that I was going to stop using the Seikret for world traversal--I noticed that I wasn't getting nearly as familiar with the environs as I did while playing World or even Rise. The vast expanse of the Windward Plains, the gorgeous flora of the Scarlet Forest, the shattered paths of Iceshard Cliffs--the areas are absolutely beautiful, sure, but all of their unique features are reduced to ambient visual stimulus by the way traversal works. From the moment you start playing, the Seikret has an "auto-move" mode that, with the press of a button, will take you directly to your quest objective or anywhere on the map where you've placed a waypoint. There is very little reason to ever actually explore the world for shortcuts, secrets, anything. Your bird does all the work for you at the press of a button.</p>
+	  
+	  <p>To unlock a similar feature in World, Raider Ride, you had to max out your friendship level with the Felyne tribe for the area you wanted to use it in. This took a considerable amount of effort. I saw it as the game saying, "Alright, you've mastered this area! Here's a way to get around quickly as a reward." To be able to skip that process, to immediately have a "take me there with zero interaction" button in a world as lush and detailed as Wilds', is an absolute travesty. It feels like every convenience feature actively discourages any conscious exploration--am I supposed to want to engage with the world or not?</p>
+	  
+	  <p>For a moment, let's consider some other iconic mounts from recent games. I believe that the perfect example of an open-world mount resides in Elden Ring--the beloved spectral steed, Torrent. Torrent is unobtrusive, easily summoned and dismissed, and doesn't trivialize exploration in any way. If anything, the steed encourages thinking about traversal in new ways--if you see an incredibly tall plateau in the distance, you may wonder where the spiritspring (horse launchpad) to get up there is. In Tears of the Kingdom, another exploration-focused game, one of the vehicles that you can construct from Zonai parts is the humble hoverbike. It's cheap, easily accessible (whether through the press of a button with the autobuild menu or just putting it together) and allows you to bypass pretty much any actual exploration. Sound familiar? The difference is that the hoverbike was unintentional, the Seikret was not.</p> 
+	  
+	  <p>In essence, the issue I have with Wilds is that there is far too much convenience given away for free. It is far too easy to ignore the rich and unbelievably detailed world that the team has constructed just by using the tools that the game gives you.</p>
+	  
+      <p>Kusabi has another meaning: 'linchpin.' Literally speaking, a linchpin is a pin that secures a wheel to an axle. Figuratively, it's a person or thing vital to a system or organization. As I'd come to realize after completing High Rank, I'd accidentally given my mount a deeply ironic name--the Seikret is every issue I have with Wilds' gameplay distilled into pure mechanical extract.</p>
+	  
+	  <img src="images/seikret/goobers.png" width=70%>
+	  <p>Is he the root of all of my problems with the game? I'd say so. Is he adorable, though? Without a shadow of a doubt.</p>
+    </div>
+<!-- TEMPLATE
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Sep 2, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+    </div>
+-->
+  </div> 
+  
+  
+  <div class="rightcolumn">
+    
+    <div class="card">
+      <a href="./"><h3>back to home</h3></a>
+    </div>
+    <div class="card">
+      <h3>archive</h3>
+	  <ul style="list-style-type:square">
+	    <li><a href="/depths">The Depths</a></li>
+		<li><a href="/ultrakill">ULTRAKILL: INFINITE HYPERDEATH</a></li>
+	  </ul>
+    </div>
+  </div>
+</div>
+
+</html>
